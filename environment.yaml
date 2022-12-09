@@ -1,0 +1,22 @@
+name: learnable-econ-abm
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - numpy=1.18.5
+  - numpy-base=1.18.5
+  - python=3.7.7
+  - scipy=1.5.0
+  - tensorboard=1.15.0
+  - tensorflow=1.15.0
+  - tensorflow-base=1.15.0
+  - tensorflow-estimator=1.15.1
+  - tensorflow-probability=0.8.0
+  - tqdm=4.45.0
+  - mlflow=1.12
+  - jupyter
+  - matplotlib
+  - pandas
+  - seaborn
+  - scikit-learn
+prefix: /Users/corrado/.conda/envs/learnable-econ-abm
